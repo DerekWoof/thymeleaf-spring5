@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.thymeleaf:thymeleaf:3.0.10-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf/3.0.10-SNAPSHOT/thymeleaf-3.0.10-20171105.144938-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf/3.0.10-SNAPSHOT/thymeleaf-3.0.10-20171105.144938-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf/3.0.10-SNAPSHOT/thymeleaf-3.0.10-20171105.144938-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
